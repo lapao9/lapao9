@@ -1,8 +1,8 @@
 # Hi, I'm João Lapão
 
-**🎓** I Completed a Minor in **Emerging Technologies Playground (ETP)** at Avans University of Applied Sciences, Den Bosch, Netherlands.
-**🎓** Currently, in 3rd-year **Computer Engineering, Networks and Telecommunications**
-**🏫** At **ISEL** – Lisbon, Portugal — expected graduation middle 2026.
+**🎓** 
+- I Completed a Minor in **Emerging Technologies Playground (ETP)** at Avans University of Applied Sciences, Den Bosch, Netherlands.
+- I'm Currently, in 3rd-year **Computer Engineering, Networks and Telecommunications** at **ISEL** – Lisbon, Portugal — expected graduation, middle 2026.
 
 
 ---
