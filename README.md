@@ -25,7 +25,7 @@
 
 ---
 
-## 📂 Projects
+## 📂 Some Projects in my GitHub:
 
 ### Enterprise Network Design & Simulation
 Simulated enterprise network built in GNS3 using Cisco IOL, covering VLANs, inter-VLAN routing, centralized DHCP, ACLs, NAT and OSPF — fully documented with configuration files, Wireshark captures and evidence screenshots.  
