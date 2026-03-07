@@ -7,26 +7,36 @@
 ---
 
 ## 🧩 Areas of Interest
-- Telecommunications  
 - Networks
 - Software / Programming
-
+- Telecommunications
+  
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Programming Languages:** Python, C, Java, JavaScript (basic)  
-**Networking & Telecommunications:** Network design, simulation, routing & switching configuration, network monitoring, Packet Tracer labs
-**Systems & Tools:** Linux & Windows administration, Shell scripting, Virtualization, Git, PostgreSQL, network simulation with GNS3 & Packet Tracer, basic network monitoring with Wireshark
+**Languages:** Python · Kotlin · Java · C · JavaScript (basic) · "SQL"
+**AI / CV:** TensorFlow Lite · OpenCV  
+**Networking:** Network design · Cisco IOS · GNS3 · Packet Tracer · VLANs · OSPF · NAT · ACLs · Wireshark · Network simulation with GNS3 & Packet Tracer
+**Backend / Tools:** FastAPI · PostgreSQL · DataStore · Kotlin Coroutines  
+**Systems & Tools:** Linux & Windows administration · Shell scripting · Virtualization · Git · GitHub 
+**Mobile:** Android · Jetpack Compose
 
 ---
 
 ## 📂 Projects
 
+### Enterprise Network Design & Simulation
+Simulated enterprise network built in GNS3 using Cisco IOL, covering VLANs, inter-VLAN routing, centralized DHCP, ACLs, NAT and OSPF — fully documented with configuration files, Wireshark captures and evidence screenshots.  
+**Skills:** Network segmentation, dynamic routing, access control, network security.
+
+### CHaTr — Chelas Habit Tracker
+Android app for daily habit tracking built with Jetpack Compose and MVVM architecture, featuring habit creation, daily completion logging and 7-day visual statistics.  
+**Skills:** Android development, Kotlin, Jetpack Compose, DataStore, Kotlin Coroutines.
+
 ### AI Against Litter
-- Developed both hardware and software for a smart litter stick capable of detecting and collecting trash.  
-- Implemented AI recognition for objects and integrated an app interface (app-side sending still in progress).  
-- Skills applied: Embedded hardware, Python programming, AI algorithms, app integration concepts.  
+Embedded AI system running on a Raspberry Pi 5 that detects and classifies litter in real time using a TensorFlow Lite model and a camera module, with GPIO feedback and a local web interface.  
+**Skills:** Embedded systems, Python, TensorFlow Lite, OpenCV, FastAPI.
 
 ---
 
