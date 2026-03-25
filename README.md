@@ -31,9 +31,9 @@
 Simulated enterprise network built in GNS3 using Cisco IOL, covering VLANs, inter-VLAN routing, centralized DHCP, ACLs, NAT and OSPF — fully documented with configuration files, Wireshark captures and evidence screenshots.  
 **Skills:** Network segmentation, dynamic routing, access control, network security.
 
-### CHaTr — Chelas Habit Tracker
-Android app for daily habit tracking built with Jetpack Compose and MVVM architecture, featuring habit creation, daily completion logging and 7-day visual statistics.  
-**Skills:** Android development, Kotlin, Jetpack Compose, DataStore, Kotlin Coroutines.
+### DevOps Engineering Portfolio — Task Manager API
+One real application built from scratch to production: a Task Manager REST API evolving across 5 projects (foundations, CI/CD, containers, cloud infrastructure, observability). Deployed with Docker, Kubernetes, AWS (EC2, RDS, EKS, S3, VPC, IAM) and managed via Terraform, Ansible and GitHub Actions.
+**Skills**: DevOps, CI/CD pipelines, containerization, cloud infrastructure, monitoring, automation, Python, FastAPI, PostgreSQL, Node-RED.
 
 ### AI Against Litter
 Embedded AI system running on a Raspberry Pi 5 that detects and classifies litter in real time using a TensorFlow Lite model and a camera module, with GPIO feedback and a local web interface.  
@@ -44,6 +44,7 @@ Embedded AI system running on a Raspberry Pi 5 that detects and classifies litte
 ## 🌐 Languages
 - Portuguese: Native  
 - English: C1 level
+- Spanish: B1 level
 
 ---
 
