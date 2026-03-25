@@ -16,12 +16,12 @@
 
 ## 🛠️ Technologies & Tools
 
-**Languages:** Python · Kotlin · Java · C · JavaScript (basic) · "SQL"
-**AI / CV:** TensorFlow Lite · OpenCV  
-**Networking:** Network design · Cisco IOS · GNS3 · Packet Tracer · VLANs · OSPF · NAT · ACLs · Wireshark · Network simulation with GNS3 & Packet Tracer
-**Backend / Tools:** FastAPI · PostgreSQL · DataStore · Kotlin Coroutines  
-**Systems & Tools:** Linux & Windows administration · Shell scripting · Virtualization · Git · GitHub 
-**Mobile:** Android · Jetpack Compose
+**Linguagens & Frameworks:** Python · Java · C · JavaScript (básico) · SQL · FastAPI · Pydantic · SQLAlchemy · pytest
+**DevOps & Containers:** Docker · Docker Compose · Kubernetes · Helm · CI/CD (GitHub Actions, pipelines)
+**Cloud & Infraestrutura:** AWS (EC2, RDS, EKS, S3, VPC, IAM) · Terraform · Ansible
+**Redes & Sistemas:** Linux · Windows · Shell scripting · Redes (VLANs, OSPF, NAT, ACLs) · Wireshark · GNS3 · Packet Tracer
+**Monitorização & Automação:** Prometheus · Grafana · InfluxDB · ELK · Node-RED
+**Bancos de Dados:** PostgreSQL · DataStore
 
 ---
 
